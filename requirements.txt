@@ -1,0 +1,10 @@
+torch           # all
+jupyterlab          # all
+tiktoken         # ch02; ch04; ch05
+matplotlib      # ch04; ch06; ch07
+tensorflow       # ch05; ch06; ch07
+tqdm             # ch05; ch07
+numpy       # dependency of several other libraries like torch and pandas
+pandas           # ch06
+psutil            # ch07; already installed automatically as dependency of torch
+transformers
